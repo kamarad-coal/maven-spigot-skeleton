@@ -16,7 +16,7 @@ Kamarad Coal is a [Renoki Games.](https://github.com/renoki-games) subsidiary, m
 You can install (for development) the package via Maven:
 
 ```bash
-mvn install -f :group_id/
+mvn install -f :group_id/:name_here/pom.xml
 ```
 
 ## 🤝 Contributing
