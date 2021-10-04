@@ -1,0 +1,3 @@
+main: :group_id.App
+name: :artifact_id
+version: "0.1"
