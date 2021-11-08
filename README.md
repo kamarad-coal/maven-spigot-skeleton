@@ -7,9 +7,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 
 ## 🤝 Supporting
 
-Kamarad Coal is a [Renoki Games.](https://github.com/renoki-games) subsidiary, made with ❤. Consider reaching out and supporting [Renoki Games.](https://github.com/renoki-games) and [Renoki Co.](https://github.com/renoki-co).
-
-[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="41" width="175" />](https://www.patreon.com/bePatron?u=10965171)
+**Renoki Games. is a [Renoki Co.](https://github.com/renoki-co) subsidiary, made with ❤. Consider reaching out and supporting [Renoki Co.](https://github.com/renoki-co).**
 
 ## 🚀 Installation
 
